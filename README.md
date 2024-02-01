@@ -20,7 +20,7 @@ Pretrained Model - https://huggingface.co/spaces/abhishek/StableSAM/blob/main/sa
 
 Base Model Yolov8 - https://github.com/ultralytics/ultralytics
 
-Dataset - To be found
+Dataset - https://ytt917251944.github.io/dataset_jekyll/
 
 ### Apply Detect model to the pictures, record the bounding boxes
 
