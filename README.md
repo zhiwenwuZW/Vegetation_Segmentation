@@ -18,6 +18,8 @@ Pretrained Model - https://huggingface.co/spaces/abhishek/StableSAM/blob/main/sa
 
 ### Train a Detect model
 
+Base Model Yolov8 - https://github.com/ultralytics/ultralytics
+
 Dataset - To be found
 
 ### Apply Detect model to the pictures, record the bounding boxes
