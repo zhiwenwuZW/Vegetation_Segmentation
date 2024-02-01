@@ -13,3 +13,13 @@ VideoCap.py is a simple tool to cut videos into frames of pictures.
 
 ### SAM model 
 Pretrained Model - https://huggingface.co/spaces/abhishek/StableSAM/blob/main/sam_vit_h_4b8939.pth
+
+## TODO
+
+### Train a Detect model
+
+Dataset - To be found
+
+### Apply Detect model to the pictures, record the bounding boxes
+
+### Load bounding boxes from local to guide SAM segmentation
